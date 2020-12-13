@@ -1,5 +1,5 @@
 # Lab5_AK
-# file Hevelencko_IV-82_Lab5.odt is doc
+# Пртокол: Hevelencko_IV-82_Lab5.odt
 Скріншоти виконання(Advanced):
 
 modinfo:  
